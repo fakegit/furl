@@ -4,24 +4,26 @@
 
 <p align="center">
   <a href="https://pypi.python.org/pypi/furl"><img src="https://badge.fury.io/py/furl.svg"></a>
-  <a href="https://travis-ci.org/gruns/furl"><img src="https://img.shields.io/travis/gruns/furl.svg"></a>
+  <a href="https://github.com/gruns/furl/actions/workflows/ci.yml"><img src="https://github.com/gruns/furl/actions/workflows/ci.yml/badge.svg"></a>
   <a href="http://unlicense.org/"><img src="https://img.shields.io/pypi/l/furl.svg"></a>
   <a href="https://pypi.python.org/pypi/furl"><img src="https://img.shields.io/pypi/pyversions/furl.svg"></a>
 </p>
 
 ## furl is a small Python library that makes parsing and<br>manipulating URLs easy.
 
-Python's standard [urllib](https://docs.python.org/3/library/urllib.html) and
-[urlparse](https://docs.python.org/3/library/urllib.parse.html) modules provide a
-number of URL\
-related functions, but using these functions to perform common
-URL\
-operations proves tedious. Furl makes parsing and manipulating URLs\
-easy.
+Python's standard
+[urllib](https://docs.python.org/3/library/urllib.html) and
+[urlparse](https://docs.python.org/3/library/urllib.parse.html) modules
+provide a number of URL related functions, but using these functions to
+perform common URL operations proves tedious. Furl makes parsing and
+manipulating URLs easy.
 
-Furl is well tested, [Unlicensed](http://unlicense.org/) in the public domain,
-and supports\
-Python 2, Python 3, PyPy2, and PyPy3.
+Furl is well tested, [Unlicensed](http://unlicense.org/) in the public
+domain, and supports Python 3 and PyPy3.
+
+👥 Furl is looking for a lead contributor and maintainer. Would you love
+to lead furl, and making working with URLs a joy for everyone in Python?
+Please [reach out](grunseid+icecream@gmail.com) and let me know! 🙌
 
 Code time: Paths and query arguments are easy. Really easy.
 
